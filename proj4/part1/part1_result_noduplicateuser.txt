@@ -1,0 +1,48 @@
+tweets_#gopatriots.txt
+total tweets: 26232
+total time: 684.0
+:Average number of tweets per hour:38.350877193
+:total retweets:36727.0
+:Average number of retweets per tweet:1.40008386703
+:total_followers:23385331.0
+:Average number of followers per user:1298.82427104
+tweets_#gohawks.txt
+total tweets: 188136
+total time: 973.0
+:Average number of tweets per hour:193.356628983
+:total retweets:379022.0
+:Average number of retweets per tweet:2.01461708551
+:total_followers:119222228.0
+:Average number of followers per user:1544.96978022
+tweets_#patriots.txt
+total tweets: 489713
+total time: 981.0
+:Average number of tweets per hour:499.19775739
+:total retweets:873068.0
+:Average number of retweets per tweet:1.78281564917
+:total_followers:538290472.0
+:Average number of followers per user:1650.32198251
+tweets_#sb49.txt
+total tweets: 826951
+total time: 583.0
+:Average number of tweets per hour:1418.44082333
+:total retweets:2076597.0
+:Average number of retweets per tweet:2.51114878632
+:total_followers:1318894092.0
+:Average number of followers per user:2235.16368
+tweets_#nfl.txt
+total tweets: 259024
+total time: 927.0
+:Average number of tweets per hour:279.421790723
+:total retweets:398517.0
+:Average number of retweets per tweet:1.5385331089
+:total_followers:322447384.0
+:Average number of followers per user:4289.74661753
+tweets_#superbowl.txt
+total tweets: 1348767
+total time: 963.0
+:Average number of tweets per hour:1400.58878505
+:total retweets:3221223.0
+:Average number of retweets per tweet:2.3882723999
+:total_followers:2477093690.0
+:Average number of followers per user:3591.60447447
